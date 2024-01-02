@@ -1,0 +1,28 @@
+{
+  "tips": [
+    {
+      "id": 1,
+      "topic": "jsx",
+      "title": "Prove impotazione",
+      "code": " <h1>Dati degli tips</h1>"
+    },
+    {
+      "id": 2,
+      "topic": "jsx",
+      "title": "Seconda importazione",
+      "code": " import React from 'react';\nimport ConcurrentRequests from './ConcurrentRequests';\n\nconst App = () => {\n  return (\n    <div>\n      <ConcurrentRequests />\n    </div>\n  );\n};\n\nexport default App;"
+    },
+    {
+      "id": 3,
+      "topic": "toor",
+      "title": "toor",
+      "code": "toor"
+    },
+    {
+      "id": 4,
+      "topic": "abra",
+      "title": "cadabra",
+      "code": "cucu"
+    }
+  ]
+}
